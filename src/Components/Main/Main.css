@@ -1,0 +1,29 @@
+.main{
+    margin: 10px 10px;
+    color: black;
+    padding: 18px;
+}
+.main img{
+    width: 100%;
+}
+.main p{
+    width: 70%;
+    margin: 0 auto;
+}
+.main .small{
+    cursor: pointer;
+}
+.main .pre-cost .cost{
+    transition: 1s;
+    margin-bottom: 10px;
+    width: 100%;
+}
+.main .pre-cost .cost:hover{
+    transform: scale(1.1);
+}
+.main .pre-cost{
+    cursor: pointer;
+}
+.main button{
+    margin: 10px 0;
+}
